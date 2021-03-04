@@ -34,7 +34,7 @@ pip install ursina[extras]
     # text
 
 
-On some systems you might have to use pip3 instead of pip in order to use Python 3 and not the old Python 2.
+On some systems you might have to use pip3 instead of pip and python3 instead of python in order to use Python 3 and not the old Python 2.
 If the pip command is not found, you can use:
 # code
 python -m pip install ursina
